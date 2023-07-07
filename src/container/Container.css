@@ -1,0 +1,39 @@
+.container-box {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: -webkit-radial-gradient(rgb(22, 135, 237), rgb(20, 55, 90));
+  background: radial-gradient(rgb(22, 135, 237), rgb(20, 55, 90));
+  
+  border-radius: 20px;
+}
+
+.low-off-count
+{
+    margin:1rem;
+    width: 100px;
+    height: 50px;
+    font-size:1rem;
+}
+.add-count {
+    margin:1rem;
+    width: 100px;
+    height: 50px;
+    font-size:1rem;
+}
+
+.btn-box{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    width:500px;
+    
+}
+
+.input-elem{
+    width: 200px;
+    height: 50px;
+}
